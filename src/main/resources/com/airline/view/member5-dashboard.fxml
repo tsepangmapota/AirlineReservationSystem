@@ -9,7 +9,7 @@
       fx:controller="com.airline.Controller.Member5Controller" fx:id="mainContainer"
       spacing="20" style="-fx-padding: 20; -fx-background-color: linear-gradient(to bottom, #9b59b6 0%, #8e44ad 100%);">
 
-    <!-- Header -->
+    
     <HBox spacing="20" alignment="CENTER_LEFT">
         <VBox spacing="5">
             <Label text="MEMBER 5 - FARE MANAGEMENT"
@@ -22,7 +22,7 @@
                 style="-fx-background-color: white; -fx-text-fill: #9b59b6; -fx-font-weight: bold; -fx-background-radius: 10; -fx-padding: 10 20;"/>
     </HBox>
 
-    <!-- Fare Statistics -->
+   
     <HBox spacing="20" alignment="CENTER">
         <VBox spacing="10" style="-fx-background-color: white; -fx-background-radius: 15; -fx-padding: 20;" alignment="CENTER" prefWidth="200">
             <Label text="Total Flights" style="-fx-font-size: 14px; -fx-text-fill: #7f8c8d;"/>
