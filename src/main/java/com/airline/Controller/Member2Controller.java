@@ -15,6 +15,7 @@ import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.beans.property.*;
 
+
 public class Member2Controller {
 
     @FXML private Label totalFlightsLabel;
