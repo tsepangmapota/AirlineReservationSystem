@@ -1,5 +1,6 @@
 package com.airline.model;
 
+
 import javafx.beans.property.*;
 
 public class Flight {
