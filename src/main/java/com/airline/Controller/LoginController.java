@@ -8,6 +8,7 @@ import javafx.scene.control.*;
 import javafx.stage.Stage;
 import java.io.IOException;
 
+
 public class LoginController {
 
     @FXML private ComboBox<String> userTypeComboBox;
