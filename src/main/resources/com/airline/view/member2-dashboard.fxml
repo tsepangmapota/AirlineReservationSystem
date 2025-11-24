@@ -4,6 +4,7 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.geometry.Insets?>
 
+
 <VBox xmlns="http://javafx.com/javafx/17.0.2" xmlns:fx="http://javafx.com/fxml/1"
       fx:controller="com.airline.Controller.Member2Controller" fx:id="mainContainer"
       spacing="20" style="-fx-padding: 20; -fx-background-color: linear-gradient(to bottom, #3498db 0%, #2980b9 100%);">
